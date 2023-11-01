@@ -41,7 +41,6 @@ Vortex Research is the quantitative trading branch of OTTR Capital. Here, you ca
 
 ### Built Using
 
-* [![React][React.js]][React-url]
 * [![Python][Python.org]][Python-url]
 * [![Javascript][Javascript.com]][Javascript-url]
 * [![Tensorflow][Tensorflow.org]][Tensorflow-url]

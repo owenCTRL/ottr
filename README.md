@@ -1,2 +1,2 @@
-# Vortex-Research
+# VortexResearch
 Vortex Research : Quantitative Trading Firm

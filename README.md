@@ -227,7 +227,7 @@ Project Link: [https://github.com/owenAPI/VortexResearch](https://github.com/owe
 [license-shield]: https://img.shields.io/github/license/owenAPI/VortexResearch.svg?style=for-the-badge
 [license-url]: https://github.com/owenAPI/VortexResearch/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/ottrCapital
+[linkedin-url]: https://linkedin.com/company/ottrCapital
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/

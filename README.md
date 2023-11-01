@@ -1,2 +1,2 @@
 # Vortex-Research
-Vortex Research : Models and Algorithms
+Vortex Research : Quantitative Trading Firm

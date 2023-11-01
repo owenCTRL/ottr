@@ -1,2 +1,2 @@
 # Vortex-Research
-Vortex Research : Models and algorithms
+Vortex Research : Models and Algorithms

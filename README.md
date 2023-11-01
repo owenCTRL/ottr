@@ -53,7 +53,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
-Vortex Research is the quantitative trading firm of OTTR Capital. Here, you can browse some of our models, and learn more about our investment philosophies and strategies.
+Vortex Research is the quantitative trading branch of OTTR Capital. Here, you can browse some of our models, and learn more about our investment philosophies and strategies.
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 

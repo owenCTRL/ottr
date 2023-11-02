@@ -21,7 +21,7 @@
   <p align="center">
     Quantitative Trading Firm
     <br />
-    <a href="https://github.com/owenAPI/VortexResearch/tree/main/Models"><strong>Some of Our Models »</strong></a>
+    <a href="https://github.com/owenAPI/VortexResearch/tree/main/models"><strong>Some of Our Models »</strong></a>
     <br />
     <br />
     <a href="https://github.com/owenAPI/VortexResearch/issues">Report Bug</a>

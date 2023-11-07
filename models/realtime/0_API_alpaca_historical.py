@@ -6,7 +6,7 @@ import json
 
 import _KEYS_DICT
 
-# Alpaca endpoint URL 
+# Alpaca endpoint URL  
 
 API_KEY = "xxxxxxxxxx"
 API_SECRET = "xxxxxxxxxxxxxxxxxxxxxxxxxxxx"

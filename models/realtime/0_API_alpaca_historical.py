@@ -16,7 +16,7 @@ data_url = 'wss://data.alpaca.markets'
 base_url = "https://data.alpaca.markets/v2/stocks/"
 
 # Your Alpaca API key ID and secret
-print("YOU MUST TO GET ALAPACA KEYS IN https://alpaca.markets/deprecated/docs/api-documentation/how-to/account/ ")
+print("YOU MUST GET ALAPACA KEYS IN https://alpaca.markets/deprecated/docs/api-documentation/how-to/account/ ")
 headers = {
     'APCA-API-KEY-ID': API_KEY,
     'APCA-API-SECRET-KEY': API_SECRET,

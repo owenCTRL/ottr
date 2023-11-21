@@ -12,11 +12,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/owenAPI/VortexResearch">
+  <a href="https://github.com/owenAPI/SandboxResearch">
     <img src="misc/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Vortex Research</h3>
+<h3 align="center">Sandbox Research</h3>
 
   <p align="center">
     Quantitative Trading Firm

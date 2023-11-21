@@ -21,12 +21,12 @@
   <p align="center">
     Quantitative Trading Firm
     <br />
-    <a href="https://github.com/owenAPI/VortexResearch/tree/main/models"><strong>Some of Our Models »</strong></a>
+    <a href="https://github.com/owenAPI/SandboxResearch/tree/main/models"><strong>Some of Our Models »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/owenAPI/VortexResearch/issues">Report Bugs</a>
+    <a href="https://github.com/owenAPI/SandboxResearch/issues">Report Bugs</a>
     ·
-    <a href="https://github.com/owenAPI/VortexResearch/issues">Request Features</a>
+    <a href="https://github.com/owenAPI/SandboxResearch/issues">Request Features</a>
   </p>
 </div>
 
@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
-Vortex Research is the quantitative trading branch of OTTR Capital. Here, you can browse some of our models, and learn more about our investment philosophies and strategies.
+Sandbox Research is the quantitative trading branch of ottr Co. Here, you can browse some of our models, and learn more about our investment philosophies and strategies.
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
@@ -70,9 +70,9 @@ If you have a suggestion that would make us better, please fork the repo and cre
 <!-- CONTACT -->
 ## Contact
 
-Twitter - [@ottrCapital](https://twitter.com/ottrCapital) - info@ottr.site
+Twitter - [@ottrCapital](https://twitter.com/ottrCo) - info@ottr.site
 
-Github: [https://github.com/owenAPI/VortexResearch](https://github.com/owenAPI/VortexResearch)
+Github: [https://github.com/owenAPI/VortexResearch](https://github.com/owenAPI/SandboxResearch)
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
@@ -89,14 +89,14 @@ Github: [https://github.com/owenAPI/VortexResearch](https://github.com/owenAPI/V
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/owenAPI/VortexResearch.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/owenAPI/SandboxResearch.svg?style=for-the-badge
 [contributors-url]: https://github.com/owenAPI/VortexResearch/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/owenAPI/VortexResearch.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/owenAPI/SandboxResearch.svg?style=for-the-badge
 [forks-url]: https://github.com/owenAPI/VortexResearch/network/members
-[stars-shield]: https://img.shields.io/github/stars/owenAPI/VortexResearch.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/owenAPI/SandboxResearch.svg?style=for-the-badge
 [stars-url]: https://github.com/owenAPI/VortexResearch/stargazers
-[issues-shield]: https://img.shields.io/github/issues/owenAPI/VortexResearch.svg?style=for-the-badge
-[issues-url]: https://github.com/owenAPI/VortexResearch/issues
+[issues-shield]: https://img.shields.io/github/issues/owenAPI/SandboxResearch.svg?style=for-the-badge
+[issues-url]: https://github.com/owenAPI/SandboxResearch/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/company/ottrCapital
 [product-screenshot]: misc/screenshot.png

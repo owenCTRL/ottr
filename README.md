@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 
-<h3 align="center">Sandbox Research</h3>
+<h3 align="center">Playground Fi</h3>
 
   <p align="center">
     Quantitative Trading Firm
@@ -31,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
-Sandbox Research is the quantitative trading branch of ottr Co. Here, you can browse some of our models, and learn more about our investment philosophies and strategies.
+Playground is the quantitative trading branch of ottr Co. Here, you can browse some of our models, and learn more about our investment philosophies and strategies.
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
@@ -68,7 +68,7 @@ If you have a suggestion that would make us better, please fork the repo and cre
 
 Twitter - [@ottrCapital](https://twitter.com/ottrCo) - info@ottr.site
 
-Github: [https://github.com/owenAPI/VortexResearch](https://github.com/owenAPI/SandboxResearch)
+Github: [https://github.com/owenAPI/PlaygroundFi](https://github.com/owenAPI/PlaygroundFi)
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 

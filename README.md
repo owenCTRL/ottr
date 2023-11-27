@@ -12,17 +12,17 @@
 <!-- PROJECT LOGO -->
 <br />
 
-<h3 align="center">Playground Fi</h3>
+<h3 align="center">Playground Finance</h3>
 
   <p align="center">
     Quantitative Trading Firm
     <br />
-    <a href="https://github.com/owenAPI/SandboxResearch/tree/main/models"><strong>Some of Our Models »</strong></a>
+    <a href="https://github.com/owenAPI/PlaygroundFinance/tree/main/models"><strong>Some of Our Models »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/owenAPI/SandboxResearch/issues">Report Bugs</a>
+    <a href="https://github.com/owenAPI/PlaygroundFinance/issues">Report Bugs</a>
     ·
-    <a href="https://github.com/owenAPI/SandboxResearch/issues">Request Features</a>
+    <a href="https://github.com/owenAPI/PlaygroundFinance/issues">Request Features</a>
   </p>
 </div>
 
@@ -31,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
-Playground is the quantitative trading branch of ottr Co. Here, you can browse some of our models, and learn more about our investment philosophies and strategies.
+Playground Fi is the quantitative trading branch of ottr Co. Here, you can browse some of our models, and learn more about our investment philosophies and strategies.
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
@@ -68,7 +68,7 @@ If you have a suggestion that would make us better, please fork the repo and cre
 
 Twitter - [@ottrCapital](https://twitter.com/ottrCo) - info@ottr.site
 
-Github: [https://github.com/owenAPI/PlaygroundFi](https://github.com/owenAPI/PlaygroundFi)
+Github: [https://github.com/owenAPI/PlaygroundFinance](https://github.com/owenAPI/PlaygroundFinance)
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 

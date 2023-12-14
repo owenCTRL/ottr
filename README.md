@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 
-<h3 align="center">SandboxResearch</h3>
+<h3 align="center">Sandbox Research</h3>
 
   <p align="center">
     Quantitative Trading Firm

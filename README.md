@@ -34,7 +34,7 @@
 
 ## 🧭 About OTTR
 
-**OTTR Co.** is a venture capital firm focused on building and backing category-defining companies from the inside out.  
+**Over The Top Returns** is a venture capital firm focused on building and backing category-defining companies from the inside out.  
 Our current portfolio includes:
 
 - **Clickroot** — A software company bringing defense-technology to the public.

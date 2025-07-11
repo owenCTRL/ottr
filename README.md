@@ -8,7 +8,7 @@
 
 <br />
 <p align="center">
-  <img src="https://github.com/owenCTRL/assets/blob/main/ottr-logo.png" alt="Logo" width="120" />
+  <img src="https://github.com/owenCTRL/misc/assets/ottr.png" alt="Logo" width="120" />
 </p>
 
 <h3 align="center">OTTR Co.</h3>
@@ -23,22 +23,22 @@
   🧠 <strong>Sandbox Research</strong> — Advanced algorithmic modeling & strategic systems<br />
   ⚙️ <strong>Clickroot</strong> — Applied software for web-scale performance and visibility
   <br /><br />
-  <a href="https://github.com/owenAPI/SandboxResearch/tree/main/models">Explore Our Models »</a>
+  <a href="https://github.com/owenCTRL/OTTR/tree/main/models">Explore Our Models »</a>
   ·
-  <a href="https://github.com/owenAPI/SandboxResearch/issues">Report Bugs</a>
+  <a href="https://github.com/owenCTRL/OTTR/issues">Report Bugs</a>
   ·
-  <a href="https://github.com/owenAPI/SandboxResearch/issues">Request Features</a>
+  <a href="https://github.com/owenCTRL/OTTR/issues">Request Features</a>
 </p>
 
 ---
 
 ## 🧭 About OTTR
 
-**OTTR Co.** is a venture creation firm focused on building and backing category-defining companies from the inside out.  
+**OTTR Co.** is a venture capital firm focused on building and backing category-defining companies from the inside out.  
 Our current portfolio includes:
 
-- **Clickroot** — A software intelligence company creating better tools for digital strategy, attribution, and scale.
-- **Sandbox Research** — An R&D engine for market modeling, adaptive allocation systems, and strategic simulation.
+- **Clickroot** — A software company bringing defense-technology to the public.
+- **Sandbox Research** — A data engine for strategic modeling, adaptive systems, and strategic simulation.
 
 We operate with conviction, code, and capital.
 
@@ -58,9 +58,7 @@ Our tools and research leverage a full stack of engineering, data science, and s
 
 ## 🤝 Connect With Us
 
-- 🌐 Website: [https://ottr.co](https://ottr.co)  
 - 🐦 Twitter: [@OTTRCo](https://twitter.com/ottrco)  
-- 💼 LinkedIn: [OTTR Co.](https://linkedin.com/company/ottrcorp)  
 - 💻 GitHub: [@owenCTRL](https://github.com/owenAPI)
 
 ---

@@ -12,10 +12,10 @@
 <!-- PROJECT LOGO -->
 <br />
 
-<h3 align="center">Sandbox Research</h3>
+<h3 align="center">OTTR Co.</h3>
 
   <p align="center">
-    Quantitative Trading Firm
+    Venture Capital Firm
     <br />
     <a href="https://github.com/owenAPI/SandboxResearch/tree/main/models"><strong>Some of Our Models »</strong></a>
     <br />
@@ -31,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
-Sandbox Research is the quantitative trading branch of ottr Co. Here, you can browse some of our models, and learn more about our investment philosophies and strategies.
+Currently building out @Clickroot and @SandboxResearch
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
@@ -47,28 +47,12 @@ Sandbox Research is the quantitative trading branch of ottr Co. Here, you can br
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Any contributions are **greatly appreciated**.
-
-If you have a suggestion that would make us better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
-3. Commit your Changes (`git commit -m 'Add NewFeature'`)
-4. Push to the Branch (`git push origin feature/NewFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">Back to Top</a>)</p>
-
-
 <!-- CONTACT -->
 ## Contact
 
-Twitter - [@SandboxResearch](https://twitter.com/sandboxresearch) - info@ottr.site
+Twitter - [@OTTRCo](https://twitter.com/ottrco)
 
-Github: [https://github.com/owenAPI/SandboxResearch](https://github.com/owenAPI/SandboxResearch)
+Github: [https://github.com/owenCTRL](https://github.com/owenAPI)
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 

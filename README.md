@@ -8,7 +8,7 @@
 
 <br />
 <p align="center">
-  <img src="https://github.com/owenCTRL/misc/ottr.png" alt="Logo" width="120" />
+  <img src="misc/assets/ottr.png" alt="Logo" width="120" />
 </p>
 
 <h3 align="center">OTTR Co.</h3>
